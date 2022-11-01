@@ -14,7 +14,11 @@ Running locally
 
 Running Globally 
 
-`docker-compose up
-docker-compose scale app=3
-docker-compose scale app=11
-`
+`docker-compose up`
+
+`docker-compose scale app=3`
+
+`docker-compose scale app=11`
+
+`docker-compose up`
+
