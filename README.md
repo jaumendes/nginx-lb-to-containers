@@ -11,7 +11,9 @@ Running locally
 
 `docker run -p 80:80 myproxy`
 
+
 Running Globally 
 
 `cd nginx-lb-to-containers`
+
 `docker-compose up `
