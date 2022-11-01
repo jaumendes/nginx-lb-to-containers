@@ -1,4 +1,5 @@
 # nginx-lb-to-containers
+
 Running locally
 `docker build -t myapp . `
 
@@ -9,5 +10,5 @@ Running locally
 
 `docker run -p 80:80 myproxy`
 
-```cd nginx-lb-to-containers
-docker-compose up ```
+`cd nginx-lb-to-containers`
+`docker-compose up `
